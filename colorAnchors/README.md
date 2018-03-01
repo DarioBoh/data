@@ -5,7 +5,7 @@ This is the dataset collected for my poster at AMCIS 2017 ("Cognitive Anchoring 
 The goal of the experiment is to test the effect of color cues on online review evaluations (the numeric part of the online review). To replicate this scenario in a lab experiment, I administered to the participants (college students) a fictional online review. Then I asked the participants to rate the experience according to: Cleanliness, Room, Overall, Sleep Quality, Service, Value. 
 
 
-##Treatment
+## Treatment
 
 The interface for submitting the online review has four possible treatments:
 
