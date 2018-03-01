@@ -7,12 +7,12 @@ The goal of the experiment is to test the effect of color cues on online review 
 
 The interface for submitting the online review has four possible treatments:
 
-1. *grey*: the selected score is filled in grey when onclicked
+1. *grey*: the selected score fills in grey when onclicked
 
-2. *color*: the selected score is filled with a color from red (score=1), to green (score=5) when oncliced
+2. *color*: the selected score fills with a color from red (score=1), to green (score=5) when oncliced
 
-3. *green*: the selected score is filled in grey when onclicked
+3. *green*: the selected score fills in grey when onclicked
 
-4. *red*: the selected score is filled in grey when onclicked
+4. *red*: the selected score fills in red when onclicked
 
 To control for colorblindess we used a reduced version of the [Ishihara's Test](http://www.colour-blindness.com/colour-blindness-tests/ishihara-colour-test-plates/).
