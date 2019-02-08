@@ -2,9 +2,9 @@
 
 This is the dataset collected for my poster at AMCIS 2017 ["Cognitive Anchoring of Color Cues on Online Review Ratings"](http://aisel.aisnet.org/amcis2017/HumanCI/Presentations/2/).
 
-The goal of the experiment is to test the effect of color cues in online review systems (e.g. TripAdvisor) on online review ratings. To simulate a online review experience in the lab, I administered to the participants (college students) a fictional online review. Then I asked the participants to rate the experience according to: Cleanliness, Room, Overall, Sleep Quality, Service, Value. 
+The goal of the experiment is to test the effect of color cues in online review systems (e.g. TripAdvisor) on online review ratings. The experimental setting is a fictional online review experience (lab setting). The treatment consists in administering to the participants (college students) a fictional lodging experience that they have to review using rating scales with different color designs. The ratings expressed are for: Cleanliness, Room, Overall, Sleep Quality, Service, Value. 
 
-The interface they used to rate the experience changes according to four treatment levels.
+The interface they used to rate the experience changes according to four treatment levels - [link to the webapp](https://dds.cct.lsu.edu/ddslab/websiteAMCIS2017/)
 
 
 ## Treatment
